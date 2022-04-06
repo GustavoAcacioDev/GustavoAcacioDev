@@ -1,9 +1,10 @@
 ### Olá, meu nome é Gustavo👋
 
-📫 Informações de contato:
-  - :iphone:: 11 99123-9008
-  - :email:: gustavoacacio22@gmail.com
-  - <img style="width: 20px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>: https://www.linkedin.com/in/gustavo-acacio/
+Social:
+<div width="100%" height="100%" display="flex" justify-content="space-evenly"/>
+  <div><img alt="GitHub followers" src="https://img.shields.io/github/followers/GustavoAcacioDev?style=social"></div>  
+  <div><a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<div/>
 
 <!--
 **GustavoAcacioDev/GustavoAcacioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
