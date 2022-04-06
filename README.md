@@ -3,7 +3,7 @@
 📫 Informações de contato:
   - :iphone:: 11 99123-9008
   - :email:: gustavoacacio22@gmail.com
-  - <img style={width="5px"} src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  - <img style="width: 20px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>: https://www.linkedin.com/in/gustavo-acacio/
 
 <!--
 **GustavoAcacioDev/GustavoAcacioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
