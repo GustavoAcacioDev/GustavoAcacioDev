@@ -1,5 +1,5 @@
 ### Olá, meu nome é Gustavo👋
-Meu nome é Gustavo e sou um Desenvolvedor em busca de sua primeira oportunidade no mercado.
+Sou um Desenvolvedor em busca de sua primeira oportunidade no mercado.
 Sou técnico em Desenvolvimento de Sistemas e atualmente curso Ciência da Computação.
 
 Contato:
