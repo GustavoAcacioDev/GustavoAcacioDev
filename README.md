@@ -1,5 +1,5 @@
 ### Olá, meu nome é Gustavo👋
-Sou um Desenvolvedor em busca de sua primeira oportunidade no mercado.
+Sou um Desenvolvedor FullStack.
 Sou técnico em Desenvolvimento de Sistemas e atualmente curso Ciência da Computação.
 
 Contato:
