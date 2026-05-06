@@ -1,6 +1,6 @@
 ### Olá, meu nome é Gustavo👋
 Sou um Desenvolvedor FullStack.
-Sou técnico em Desenvolvimento de Sistemas e atualmente curso Ciência da Computação.
+Formado em Ciência da Computação.
 
 Contato:
 <br/>
